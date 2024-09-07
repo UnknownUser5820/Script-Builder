@@ -1,9 +1,107 @@
 {
-    "Work in progress..": {
-        "Description": "Please follow the rules from our community server, otherwise if you break a rule you will still get punished",
+    "Kicking Players": {
+        "Description": "Kicking 3 players in 5 minutes",
+        "Punishment": {
+            "Days": 9,
+            "Type": "Ban"
+        }
+    },
+    "Crashing Players": {
+        "Description": "Doing this on purpose will get you banned",
+        "Punishment": {
+            "Days": 9,
+            "Type": "Ban"
+        }
+    },
+    "Violating Roblox's ToS": {
+        "Description": "Failing to follow Roblox's ToS and the game rules will get you banned",
+        "Punishment": {
+            "Days": 20,
+            "Type": "Ban"
+        }
+    },
+    "Bannable guis": {
+        "Description": "Guis like UTG or Infinite Yield are not allowed",
+        "Punishment": {
+            "Days": 15,
+            "Type": "Ban"
+        }
+    },
+    "Banned assets": {
+        "Description": "Running banned require/asset(s) ids outside the sandbox",
+        "Punishment": {
+            "Days": 17,
+            "Type": "Ban"
+        }
+    },
+    "Admin Loaders": {
+        "Description": "Admin modules like HD Admin, Adonis, Quantum, Kohls are not allowed",
+        "Punishment": {
+            "Days": 23,
+            "Type": "Ban"
+        }
+    },
+    "Offensive scripts": {
+        "Description": "Running any Offensive scripts that are related to real life situations",
+        "Punishment": {
+            "Days": 25,
+            "Type": "Ban"
+        }
+    },
+    "Chat Manipulation": {
+        "Description": "Chat Manipulation is strictly not allowed",
+        "Punishment": {
+            "Days": 30,
+            "Type": "Ban"
+        }
+    },
+    "Unfiltered text": {
+        "Description": "Bypassing roblox's filter",
+        "Punishment": {
+            "Days": 20,
+            "Type": "Ban"
+        }
+    },
+    "Spamming": {
+        "Description": "Spamming/flooding the chat",
+        "Punishment": {
+            "Days": 1,
+            "Type": "Ban"
+        }
+    },
+    "Flashy Scripts": {
+        "Description": "Loading scripts that have intense flashes may be uncomfortable for other players",
+        "Punishment": {
+            "Days": 3,
+            "Type": "Warn/Ban"
+        }
+    },
+    "Refusing to stop": {
+        "Description": "If a person gets mass killed and asks you multiple times to stop, not doing so will get you warned or banned",
         "Punishment": {
             "Days": 2,
             "Type": "Ban"
+        }
+    },
+    "Harassment": {
+        "Description": "Any type of harassment, doxxing, and stalking will not be tolerated",
+        "Punishment": {
+            "Days": 50,
+            "Type": "Ban"
+        }
+    },
+    "Remote Admins": {
+        "Description": "Loading Remote Admin(s) and letting others run bad commands or anything similar is not allowed. The person who loaded the admin may be warned or banned depending on the situation",
+        "Punishment": {
+            "Days": "Depends",
+            "Type": "Warn/Ban"
+        }
+    },
+    "Blocking Services from working": {
+        "Description": "We do not allow blocking services from working how they are supposed to, failing to follow any warnings from the moderators will get you banned",
+        "Punishment": {
+            "Days": 30,
+            "Type": "Warn/Ban"
         }
     }
 }
