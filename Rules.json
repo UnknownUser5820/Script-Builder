@@ -1,1 +1,9 @@
-
+{
+    "Work in progress..": {
+        "Description": "Please follow the rules from our community server, otherwise if you break a rule you will still get punished",
+        "Punishment": {
+            "Days": 2,
+            "Type": "Ban"
+        }
+    }
+}
